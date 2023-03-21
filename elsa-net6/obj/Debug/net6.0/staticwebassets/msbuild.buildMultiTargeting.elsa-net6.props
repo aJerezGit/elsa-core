@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/elsa-net6.props" />
+</Project>

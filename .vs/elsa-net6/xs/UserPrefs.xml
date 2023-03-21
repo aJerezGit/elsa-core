@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9BD50A84-FDA9-4800-BA3D-B4B9A6FED85F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="elsa-net6/appsettings.json">
+    <Files>
+      <File FileName="elsa-net6/Startup.cs" Line="29" Column="23" />
+      <File FileName="elsa-net6/Program.cs" Line="21" Column="30" />
+      <File FileName="elsa-net6/HelloWorldWorkflow.cs" Line="29" Column="44" />
+      <File FileName="elsa-net6/appsettings.json" Line="8" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="elsa-net6" expanded="True">
+            <Node name="elsa-net6" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.elsa-net6 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

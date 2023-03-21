@@ -1,0 +1,107 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/andresjerez/Documents/NVC/elsa-net6/elsa-net6/elsa-net6.csproj": {}
+  },
+  "projects": {
+    "/Users/andresjerez/Documents/NVC/elsa-net6/elsa-net6/elsa-net6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/andresjerez/Documents/NVC/elsa-net6/elsa-net6/elsa-net6.csproj",
+        "projectName": "elsa-net6",
+        "projectPath": "/Users/andresjerez/Documents/NVC/elsa-net6/elsa-net6/elsa-net6.csproj",
+        "packagesPath": "/Users/andresjerez/.nuget/packages/",
+        "outputPath": "/Users/andresjerez/Documents/NVC/elsa-net6/elsa-net6/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/andresjerez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Elsa": {
+              "target": "Package",
+              "version": "[2.10.2.2, )"
+            },
+            "Elsa.Activities.Http": {
+              "target": "Package",
+              "version": "[2.10.2.2, )"
+            },
+            "Elsa.Activities.Temporal.Quartz": {
+              "target": "Package",
+              "version": "[2.10.2.2, )"
+            },
+            "Elsa.Activities.Timers": {
+              "target": "Package",
+              "version": "[1.5.5.1943, )"
+            },
+            "Elsa.Persistence.EntityFramework.Sqlite": {
+              "target": "Package",
+              "version": "[2.10.2.2, )"
+            },
+            "Elsa.Server.Api": {
+              "target": "Package",
+              "version": "[2.10.2.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
